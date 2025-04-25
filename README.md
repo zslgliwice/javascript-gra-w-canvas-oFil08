@@ -1,12 +1,7 @@
 # canvas-javascript
 
-Stwórz własną grę przeglądarkową (dowolną - może być logiczna, platformowa etc.) - pomocne tutoriale znajdziesz tutaj:
+tutaj [repo](https://github.com/oFil08/oFil08.github.io/tree/main/gra-canvas)
 
-- Canvas - Płótno w przeglądarce - część 1/2:
-[https://miroslawzelent.pl/kurs-javascript/document-object-model-dom-hierarchia/](https://miroslawzelent.pl/kurs-javascript/canvas-plotno-gra/)
+a tutaj [gra](https://ofil08.github.io/gra-canvas/)
 
-- Canvas - Własna gra platformowa - część 2/2:
-[https://miroslawzelent.pl/kurs-javascript/document-object-model-dom-praktyka/](https://miroslawzelent.pl/kurs-javascript/canvas-gra-platformowa/)
-
-Jeśli chcesz, można też skorzystać z wielu bibliotek canvasowych:
-https://webdesign.tutsplus.com/best-free-canvas-libraries-in-javascript--cms-37317a
+(w osobnym repo to dałem żeby github page był, żeby pan nie musiał wszystkiego pobierać)
